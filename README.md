@@ -1,4 +1,4 @@
-Haml to *
+haml_to_*
 ============
 
 haml_to_star is a ruby library that purpose is to allow you to transform haml to any language.
