@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'json'
 require 'cgi'
-require 'haml_to_star/code_element'
+require 'haml_to_star/code_node'
 
 module HamlToStar
 
