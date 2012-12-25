@@ -10,7 +10,7 @@ Please take a look at known extensions and at the documentation if you want to c
 Known extensions
 ----------------
 
-haml_to_js (will be coming very soon)
+[haml_to_js](https://github.com/sdrdis/haml_to_js) converts haml to javascript
 
 Contributions
 -------------
