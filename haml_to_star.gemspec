@@ -1,8 +1,11 @@
 Gem::Specification.new do |s|
   s.name        = 'haml_to_star'
-  s.version     = '0.3'
+  s.version     = '0.3.1'
   s.date        = '2012-12-25'
   s.summary     = "haml_to_star is a ruby library that purpose is to allow you to transform haml to any language."
+  s.add_runtime_dependency('rubygems')
+  s.add_runtime_dependency('json')
+  s.add_runtime_dependency('cgi')
   s.description =<<eos
 haml_to_star is a ruby library that purpose is to allow you to transform haml to any language.
 
